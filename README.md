@@ -1,5 +1,5 @@
 # 📊 Superstore Sales Analysis Dashboard
-📌 Project Overview
+## 📌 Project Overview
 
 This project presents a Superstore Sales Analysis Dashboard built to analyze 2 years of sales data across multiple states in the USA. The dashboard focuses on identifying sales trends, profitability patterns, regional performance, and short-term sales forecasting to support data-driven business decisions.
 
@@ -13,7 +13,7 @@ Geography: United States (State-wise analysis)
 
 Data Type: Sales, Profit, Orders, Shipping, Customer Segments
 
-🛠️ Tools & Technologies Used
+## 🛠️ Tools & Technologies Used
 
 📊 Power BI – Interactive dashboards and data modeling
 
@@ -25,7 +25,7 @@ Data Type: Sales, Profit, Orders, Shipping, Customer Segments
 
 ## 📄 Dashboard Pages & Insights
 
-📈 Page 1: Sales Analysis
+### 📈 Page 1: Sales Analysis
 
 Focused on understanding sales distribution, profitability, and customer behavior.
 
@@ -47,7 +47,7 @@ Profit trends by Month & Year
 
 Geographic map showing state-wise sales and profit performance
 
-🔮 Page 2: Sales Forecast
+### 🔮 Page 2: Sales Forecast
 
 Provided short-term forecasting and regional performance insights.
 
